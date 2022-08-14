@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;1,300&family=Varela+Round&display=swap');
+
+font-family = 
+
+1. Dope shope 
+2. Rataan lambiyaan 
+3. Shoot to thrill
+4. Starboy 
+5. Party Monster 
